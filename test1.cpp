@@ -2,6 +2,6 @@
 using namespace std;
 
 int main(){
-    //code
+    int a,b;
     return 0;
 }
