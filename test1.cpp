@@ -8,5 +8,6 @@ int main(){
     int sum;
     sum=a+b;
     cout<<"\nThe result is: "<<sum;
+    cout<<"\nend of program"<<endl;
     return 0;
 }
